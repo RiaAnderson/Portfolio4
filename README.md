@@ -3,6 +3,7 @@ This code can be used to showcase your portfolio.
  
 ## Description
 This code can be used to showcase information about the user. The user can create a short bio about themselves, create a contact form, and display their work.
+![Website Image](assets/images/Headshot19.jpg)
  
 ## Dependencies
 * Windows 10
